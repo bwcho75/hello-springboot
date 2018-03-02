@@ -1,0 +1,8 @@
+Package: hellospring
+Version: 1.0
+Section: misc
+Priority: low
+Architecture: all
+Depends: 
+Description: spinnaker spring test
+Maintainer: bwcho75@gmail.com
